@@ -14,19 +14,20 @@ Welcome to **Grogin Template**! A powerful, responsive, and customizable web tem
 
 Here are some images showcasing the Grogin Template:
 
-![Home Page](assets/images/grogin_picture1.png)
-*Home Page*
-
-![Responsive View](assets/images/grogin_picture2.png)
-*Responsive View*
-
-![Dark Mode](assets/images/grogin_picture3.png)
+![Dark Mode](assets/images/grogin_picture1.png)
 *Dark Mode*
+
+![Home Page Full View](assets/images/grogin_picture2.png)
+*Home Page Full View*
+
+![Basket](assets/images/grogin_picture3.png)
+*Basket*
 
 ## 🚀 Getting Started
 
 Follow these simple steps to get started with the Grogin Template:
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Cahandar7/Grogin_Template.git
