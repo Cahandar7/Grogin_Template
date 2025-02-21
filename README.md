@@ -14,13 +14,13 @@ Welcome to **Grogin Template**! A powerful, responsive, and customizable web tem
 
 Here are some images showcasing the Grogin Template:
 
-![Dark Mode](assets/images/grogin_picture1.png)
+![Dark Mode](src/assets/images/grogin_picture1.png)
 *Dark Mode*
 
-![Home Page Full View](assets/images/grogin_picture2.png)
+![Home Page Full View](src/assets/images/grogin_picture2.png)
 *Home Page Full View*
 
-![Basket](assets/images/grogin_picture3.png)
+![Basket](src/assets/images/grogin_picture3.png)
 *Basket*
 
 ## 🚀 Getting Started
